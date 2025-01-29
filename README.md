@@ -68,5 +68,5 @@ mongod
 
 Execute o projeto:
 ```bash
-npm start
+npm run dev
 ```
